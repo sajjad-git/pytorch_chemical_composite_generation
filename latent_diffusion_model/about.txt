@@ -1,0 +1,1 @@
+This is our best model yet. It is capable of reducing the microstructure representation to 64 pixels from 200x200, and reconstructing it with very high fidelity.
